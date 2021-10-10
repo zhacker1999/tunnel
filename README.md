@@ -25,7 +25,7 @@
 ## ABOUT TOOL :
 
 Tunnel is a bash based script which is made for ngrok users of termux from this tool in just one click you can do lot more. This tool works on both rooted Android device and Non-rooted Android device.
-
+help to install ngrok in your Script
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
@@ -61,6 +61,7 @@ Tunnel is a bash based script which is made for ngrok users of termux from this 
 * `ls`
 * `cd tunnel`
 * `ls`
+* `Turn on Android hotspsot`
 * `bash tunnel.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
